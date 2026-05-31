@@ -1,9 +1,9 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v1.1/DarkfxCommunity-v1.1-test-debug.apk",
-  "sha256": "152760c0479c25a9660d2be82879fd5a1472b15a68ed3298bfcff520b9f1fe86",
-  "sizeBytes": 54968091,
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v1.1/DarkfxCommunity-v1.1-release-signed.apk",
+  "sha256": "f3e4ef07d51326233df4a92f781e16c489435f195df0177e144ae23c31594fdd",
+  "sizeBytes": 19829522,
   "mandatory": false,
   "releaseNotes": "Darkfx Community v1.1 adds in-app update delivery and general stability improvements."
 }
