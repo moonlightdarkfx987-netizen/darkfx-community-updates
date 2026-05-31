@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v1.2/DarkfxCommunity-v1.2-release-signed.apk",
-  "sha256": "03c2143849f0011dbca00dd08b4456f8a64e80fefe25c1cc013190e5f966a827",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v1.3/DarkfxCommunity-v1.3-release-signed.apk",
+  "sha256": "7b65a11a7cd030f346ad8a6a01ea7f0e23ef925c76ac088eea86a0e76941bd18",
   "sizeBytes": 19829526,
   "mandatory": false,
-  "releaseNotes": "Darkfx Community v1.2 improves Google sign-in reliability for release builds and keeps the in-app update channel ready for production users."
+  "releaseNotes": "Darkfx Community v1.3 improves profile controls, attachment auto-download handling, and update prompt behavior for a smoother production experience."
 }
