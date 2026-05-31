@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v1.5/DarkfxCommunity-v1.5-release-signed.apk",
-  "sha256": "dca46f2164cb0e047609bd1b84400cc2af5d5aae2aa743c8b9eeaa8ff54750d3",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v1.6/DarkfxCommunity-v1.6-release-signed.apk",
+  "sha256": "bf1085cd1fad5a653ec8a857dda8bede380c53366602eb79a338d666c35ad4cc",
   "sizeBytes": 19829526,
   "mandatory": false,
-  "releaseNotes": "Darkfx Community v1.5 adds a cleaner update indicator in Settings, improves first-time profile setup, and refines sign-in/loading polish for a smoother production experience."
+  "releaseNotes": "Darkfx Community v1.6 fixes update reminder behavior so choosing Later keeps the update prompt dismissed for the intended period."
 }
