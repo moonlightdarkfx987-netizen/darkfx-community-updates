@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v1.8/DarkfxCommunity-v1.8-release-signed.apk",
-  "sha256": "f2d64176874a6445d5c54e629353f22662baff78006a7c6f32c33b04f9e611b1",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v1.9/DarkfxCommunity-v1.9-release-signed.apk",
+  "sha256": "fffbcb5def5e069459c2af903196216b49f5e4dedf00bd667dd395fd84c8dba4",
   "sizeBytes": 19845910,
   "mandatory": false,
-  "releaseNotes": "Darkfx Community v1.8 refines the Google sign-in handoff and loading feedback so authentication feels clearer and smoother."
+  "releaseNotes": "Darkfx Community v1.9 improves channel reopen stability, keeps archived chats hidden from the first frame, and refines keyboard spacing for a smoother chat experience."
 }
