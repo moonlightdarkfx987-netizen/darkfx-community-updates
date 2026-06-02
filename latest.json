@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v2.0/DarkfxCommunity-v2.0-release-signed.apk",
-  "sha256": "f9b8c9a586ccea080e00742c8b4115e2fb477e9669f52122a1856df7c828bbcd",
-  "sizeBytes": 74863365,
+  "versionCode": 12,
+  "versionName": "2.2",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v2.2/Darkfx-Community-v2.2.apk",
+  "sha256": "573eb658d67064c93ebb6215e2a3fb7ebd003f3888639d084562161ae51d11d3",
+  "sizeBytes": 74863361,
   "mandatory": false,
-  "releaseNotes": "Darkfx Community v2.0 adds Telegram-style chat profile pages, foreground-only online presence, and instant channel reactions on text, photo, video, and file posts."
+  "releaseNotes": "Darkfx Community v2.2 fixes normal member emoji reactions in channels and chats so apply/unapply stays instant across text, photo, video, and file posts."
 }
