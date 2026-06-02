@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "2.2",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v2.2/Darkfx-Community-v2.2.apk",
-  "sha256": "573eb658d67064c93ebb6215e2a3fb7ebd003f3888639d084562161ae51d11d3",
-  "sizeBytes": 74863361,
+  "versionCode": 13,
+  "versionName": "2.3",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v2.3/Darkfx-Community-v2.3-2026-06-02-1746.apk",
+  "sha256": "c8308957b3d51159cf597b8fb9198f2641a23601d3094a12f34403fc7c733566",
+  "sizeBytes": 74896133,
   "mandatory": false,
-  "releaseNotes": "Darkfx Community v2.2 fixes normal member emoji reactions in channels and chats so apply/unapply stays instant across text, photo, video, and file posts."
+  "releaseNotes": "Bug fixes, performance enhancements"
 }
