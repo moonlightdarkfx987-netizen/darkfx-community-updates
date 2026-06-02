@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v1.9/DarkfxCommunity-v1.9-release-signed.apk",
-  "sha256": "fffbcb5def5e069459c2af903196216b49f5e4dedf00bd667dd395fd84c8dba4",
-  "sizeBytes": 19845910,
+  "versionCode": 11,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v2.0/DarkfxCommunity-v2.0-release-signed.apk",
+  "sha256": "f9b8c9a586ccea080e00742c8b4115e2fb477e9669f52122a1856df7c828bbcd",
+  "sizeBytes": 74863365,
   "mandatory": false,
-  "releaseNotes": "Darkfx Community v1.9 improves channel reopen stability, keeps archived chats hidden from the first frame, and refines keyboard spacing for a smoother chat experience."
+  "releaseNotes": "Darkfx Community v2.0 adds Telegram-style chat profile pages, foreground-only online presence, and instant channel reactions on text, photo, video, and file posts."
 }
