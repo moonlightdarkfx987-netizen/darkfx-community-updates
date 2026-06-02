@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "2.3",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v2.3/Darkfx-Community-v2.3-2026-06-02-1746.apk",
-  "sha256": "c8308957b3d51159cf597b8fb9198f2641a23601d3094a12f34403fc7c733566",
-  "sizeBytes": 74896133,
+  "versionCode": 14,
+  "versionName": "2.4",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v2.4/app-release.apk",
+  "sha256": "E5D5260376468382A5214F04FCED67CA047FF70829D2B65400A412310B22408B",
+  "sizeBytes": 74896129,
   "mandatory": false,
-  "releaseNotes": "Bug fixes, performance enhancements"
+  "releaseNotes": "Bug fixes and stability improvements. Fixed Google sign-in error 10 issue, updated Firebase configuration, and improved app reliability."
 }
