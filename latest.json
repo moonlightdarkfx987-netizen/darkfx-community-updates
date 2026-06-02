@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "2.4",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v2.4/darkfx_community_release_version.v2.4.apk",
-  "sha256": "E5D5260376468382A5214F04FCED67CA047FF70829D2B65400A412310B22408B",
-  "sizeBytes": 74896129,
+  "versionCode": 15,
+  "versionName": "2.5",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v2.5/darkfx_community_release_version.v2.5.apk",
+  "sha256": "157F1291124D5537658BEAE58A5ECB9524E1781B1EDC68542A598C4B6D5C261B",
+  "sizeBytes": 74896133,
   "mandatory": false,
-  "releaseNotes": "Bug fixes and stability improvements. Fixed Google sign-in error 10 issue, updated Firebase configuration, and improved app reliability."
+  "releaseNotes": "Bug fixes and stability improvements."
 }
