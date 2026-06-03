@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "2.7",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v2.7/darkfx_community_release_version.v2.7.apk",
-  "sha256": "21F309EA4E37FC082E5B03B94DAFA2DC79A87098C8B34F07C3975876CEDB15B5",
+  "versionCode": 18,
+  "versionName": "2.8",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v2.8/darkfx_community_release_version.v2.8.apk",
+  "sha256": "99AE93431A6A9227ABB58EC8663FFF80F4038289D34D8A10134D5B4273AFFCF7",
   "sizeBytes": 75037024,
   "mandatory": false,
   "releaseNotes": "Bug fixes and improvements."
