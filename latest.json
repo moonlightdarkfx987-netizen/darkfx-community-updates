@@ -2,8 +2,8 @@
     "versionCode":  21,
     "versionName":  "3.1",
     "apkUrl":  "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v3.1/darkfx_community_release_version.v3.1.apk",
-    "sha256":  "DD3C0D75CB7C80E97827AAF4B1B6853239E7A83D74FFDBB9E7ED45263745A172",
+    "sha256":  "1CAAA124C49C109B545CD8F8788815C288E0BDB1487FC2ED86ED3E900C81D5E7",
     "sizeBytes":  75103708,
     "mandatory":  false,
-    "releaseNotes":  "UI polish, draft saving, navigation bar style fixes, and chat/broadcast spacing improvements."
+    "releaseNotes":  "UI polish, draft saving, navigation bar style fixes, chat/broadcast spacing improvements, and channel unread badge fixes."
 }
