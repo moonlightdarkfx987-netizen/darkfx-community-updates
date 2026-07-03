@@ -1,9 +1,9 @@
 {
-    "versionCode":  23,
-    "versionName":  "3.3",
-    "apkUrl":  "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v3.3/darkfx_community_release_version.v3.3.apk",
-    "sha256":  "1F7F8465709F59DC702FA372A9C3B0DD8073A51641E30E059C91BA2A77ABF034",
-    "sizeBytes":  75103704,
+    "versionCode":  24,
+    "versionName":  "3.4",
+    "apkUrl":  "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v3.4/darkfx_community_release_version.v3.4.apk",
+    "sha256":  "1249277717D517EC0787E019D2477EDAE212A900F0FAD67252A7C3983F4701A3",
+    "sizeBytes":  75428396,
     "mandatory":  false,
-    "releaseNotes":  "Navbar improvements and bug fixes."
+    "releaseNotes":  "Tools improvements and bug fixes."
 }
