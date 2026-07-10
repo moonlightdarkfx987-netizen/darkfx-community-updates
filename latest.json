@@ -1,9 +1,9 @@
 {
-    "versionCode":  26,
-    "versionName":  "3.6",
-    "apkUrl":  "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v3.6/darkfx_community_release_version.v3.6.apk",
-    "sha256":  "2F59313A8176608653DAA544A3DF688D298C4D223CFFD6C366E1582F2D9674F3",
-    "sizeBytes":  144787467,
-    "mandatory":  false,
-    "releaseNotes":  "Added USDT wallet, UI enhancements, and bug fixes."
+  "versionCode": 27,
+  "versionName": "3.7",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v3.7/darkfx_community_release_version.v3.7.apk",
+  "sha256": "c5d77be1281f437597813491ed8c2f7eebf23971ed8bcd9224bdc7bb1d03a9d2",
+  "sizeBytes": 144803855,
+  "mandatory": false,
+  "releaseNotes": "- Bug fixes.\n- UI improvements."
 }
