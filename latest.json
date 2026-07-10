@@ -1,9 +1,9 @@
 {
-  "versionCode": 27,
-  "versionName": "3.7",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v3.7/darkfx_community_release_version.v3.7.apk",
-  "sha256": "c5d77be1281f437597813491ed8c2f7eebf23971ed8bcd9224bdc7bb1d03a9d2",
+  "versionCode": 28,
+  "versionName": "3.8",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v3.8/darkfx_community_release_version.v3.8.apk",
+  "sha256": "3c7e0d9b73711cef81431b7e9650adc5780eac49dcf99ed5a01f0813accd362c",
   "sizeBytes": 144803855,
   "mandatory": false,
-  "releaseNotes": "- Bug fixes.\n- UI improvements."
+  "releaseNotes": "- Bug fixes."
 }
