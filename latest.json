@@ -1,9 +1,9 @@
 {
-    "versionCode":  38,
-    "versionName":  "4.8",
-    "apkUrl":  "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.8/darkfx_community_release_version.v4.8.apk",
-    "sha256":  "5fb3939a0c101799fbd0cedb79d64e53b50422bd843bc5b4f2772fb45b8b6327",
-    "sizeBytes":  144853007,
+    "versionCode":  39,
+    "versionName":  "4.9",
+    "apkUrl":  "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.9/darkfx_community_release_version.v4.9.apk",
+    "sha256":  "19f0b63715fd445f4d19b6ffdd34efcf975b75b8f1f8eef4e4d6e03dd2255728",
+    "sizeBytes":  144869391,
     "mandatory":  false,
-    "releaseNotes":  "Bug fixes."
+    "releaseNotes":  "Bug fixes.\nImprovements.\nAdded Economic Calendar with alerts."
 }
