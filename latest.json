@@ -1,9 +1,9 @@
 {
-  "versionCode": 40,
-  "versionName": "4.10",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.10/darkfx_community_release_version.v4.10.apk",
-  "sha256": "a6b113ab0df77c7ffb7c620e12c7ce7707b02c140210bce8dbcce58cee667864",
-  "sizeBytes": 144885775,
-  "mandatory": false,
-  "releaseNotes": "Ultra-smooth performance enhancements.\nBug fixes.\nSignificant improvements to responsiveness, channel readiness, viewport stability, and archived chat navigation."
+    "versionCode":  41,
+    "versionName":  "4.11",
+    "apkUrl":  "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.11/darkfx_community_release_version.v4.11.apk",
+    "sha256":  "687e59700e145893e639b77c5b4705df75105093d6a28dabeea0387013ba0717",
+    "sizeBytes":  144885775,
+    "mandatory":  false,
+    "releaseNotes":  "Bug fixes and improvements.\nPerformance enhancements and significant improvements to channel message positioning, outgoing post animations, scrolling, responsiveness, and stability."
 }
