@@ -1,9 +1,9 @@
 {
-  "versionCode": 43,
-  "versionName": "4.13",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.13/darkfx_community_release_version.v4.13.apk",
-  "sha256": "e85ec82ca822333695b2d5fb96ca11ca907eda7ff27cc35d29f34af3fb79293e",
+  "versionCode": 44,
+  "versionName": "4.14",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.14/darkfx_community_release_version.v4.14.apk",
+  "sha256": "5b263c9d3738f886b6fceddea544fb81be188653f95781e805fc320683262cf6",
   "sizeBytes": 144984079,
   "mandatory": false,
-  "releaseNotes": "Added a new crop UI to image selection in chats and channels, with media workflow improvements and bug fixes."
+  "releaseNotes": "Bug fixes and improvements."
 }
