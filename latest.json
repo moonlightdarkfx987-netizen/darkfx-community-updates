@@ -1,9 +1,9 @@
 {
-  "versionCode": 45,
-  "versionName": "4.15",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.15/darkfx_community_release_version.v4.15.apk",
-  "sha256": "f69d9ce6bb01c51c9c8ea1a7efd1f72f0879730a87475f8307976734460ffbd3",
-  "sizeBytes": 144905743,
+  "versionCode": 46,
+  "versionName": "4.16",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.16/darkfx_community_release_version.v4.16.apk",
+  "sha256": "15c1cdea31498818868920834217e80304299f97663ca8d652714e8d55e82a70",
+  "sizeBytes": 155760951,
   "mandatory": false,
-  "releaseNotes": "Bug fixes."
+  "releaseNotes": "App-wide blur and glass implementation, 800+ true animated emojis, and major Telegram-style UI improvements."
 }
