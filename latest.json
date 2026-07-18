@@ -1,9 +1,9 @@
 {
-    "versionCode":  47,
-    "versionName":  "4.17",
-    "apkUrl":  "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.17/darkfx_community_release_version.v4.17.apk",
-    "sha256":  "913464fc7f5316816c6c3298c82e5988c608f1d17e82e859fe2d678aaa7a73a0",
-    "sizeBytes":  155760951,
+    "versionCode":  48,
+    "versionName":  "4.18",
+    "apkUrl":  "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.18/darkfx_community_release_version.v4.18.apk",
+    "sha256":  "e99f6b15d4739bcbfcf9a700825d5109a4dc5898ec74893406e8c058b4cb5b95",
+    "sizeBytes":  155762443,
     "mandatory":  false,
-    "releaseNotes":  "Bug fixes in blur implementation."
+    "releaseNotes":  "Improvements and bug fixes."
 }
