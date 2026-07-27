@@ -1,9 +1,9 @@
 {
-    "versionCode":  52,
-    "versionName":  "4.22",
-    "apkUrl":  "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.22/darkfx_community_release_version.v4.22.apk",
-    "sha256":  "8091b2a59f51801e59a1a2490020aa4749a97d55228209e687b28aedf8697e4d",
-    "sizeBytes":  155795235,
-    "mandatory":  true,
-    "releaseNotes":  "BUG FIXES , IMPROVEMENTS."
+  "versionCode": 54,
+  "versionName": "4.24",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.24/darkfx_community_release_version.v4.24.apk",
+  "sha256": "d7c8bdb0fd5b6a9291584b77976942f645965ad4d8e6d8e81af10854c5ee19c1",
+  "sizeBytes": 155893539,
+  "mandatory": true,
+  "releaseNotes": "App-wide improvements\nmacOS-like transitions added\nSaved Messages cloud row added\nBug fixes"
 }
