@@ -1,9 +1,9 @@
 {
-  "versionCode": 54,
-  "versionName": "4.24",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.24/darkfx_community_release_version.v4.24.apk",
-  "sha256": "d7c8bdb0fd5b6a9291584b77976942f645965ad4d8e6d8e81af10854c5ee19c1",
-  "sizeBytes": 155893539,
+  "versionCode": 55,
+  "versionName": "4.25",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.25/darkfx_community_release_version.v4.25.apk",
+  "sha256": "5195aa7c350ebcab16c3d29a0e961c2b7c826f336b8826434961d0fd218b77eb",
+  "sizeBytes": 156120382,
   "mandatory": true,
-  "releaseNotes": "App-wide improvements\nmacOS-like transitions added\nSaved Messages cloud row added\nBug fixes"
+  "releaseNotes": "Major video and media update: live video recording, faster and flicker-free picking, true fullscreen playback, improved timelines and captions, consistent Channel/Chat/Saved Message uploads, Cloudflare video upload fixes, and additional UI and stability improvements."
 }
