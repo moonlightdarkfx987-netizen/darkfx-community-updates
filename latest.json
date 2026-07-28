@@ -5,5 +5,5 @@
   "sha256": "5195aa7c350ebcab16c3d29a0e961c2b7c826f336b8826434961d0fd218b77eb",
   "sizeBytes": 156120382,
   "mandatory": true,
-  "releaseNotes": "Major video and media update: live video recording, faster and flicker-free picking, true fullscreen playback, improved timelines and captions, consistent Channel/Chat/Saved Message uploads, Cloudflare video upload fixes, and additional UI and stability improvements."
+  "releaseNotes": "Lots of video-related improvements\nBug fixes\nOther improvements"
 }
