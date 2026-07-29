@@ -1,9 +1,9 @@
 {
-  "versionCode": 55,
-  "versionName": "4.25",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.25/darkfx_community_release_version.v4.25.apk",
-  "sha256": "5195aa7c350ebcab16c3d29a0e961c2b7c826f336b8826434961d0fd218b77eb",
-  "sizeBytes": 156120382,
+  "versionCode": 56,
+  "versionName": "4.26",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.26/darkfx_community_release_version.v4.26.apk",
+  "sha256": "13b3d66c53a6bc951ab24014dde1c4f62ac8a4cbc05a506848e70c35213e1715",
+  "sizeBytes": 156136766,
   "mandatory": true,
-  "releaseNotes": "Lots of video-related improvements\nBug fixes\nOther improvements"
+  "releaseNotes": "Improvements\nBug fixes"
 }
