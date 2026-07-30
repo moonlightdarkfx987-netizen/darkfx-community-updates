@@ -1,9 +1,9 @@
 {
-  "versionCode": 56,
-  "versionName": "4.26",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.26/darkfx_community_release_version.v4.26.apk",
-  "sha256": "13b3d66c53a6bc951ab24014dde1c4f62ac8a4cbc05a506848e70c35213e1715",
-  "sizeBytes": 156136766,
+  "versionCode": 57,
+  "versionName": "4.27",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.27/darkfx_community_release_version.v4.27.apk",
+  "sha256": "22e6097b8b225d38fb94030076836769504c3e245078ae697383bae8b808b537",
+  "sizeBytes": 171669747,
   "mandatory": true,
-  "releaseNotes": "Improvements\nBug fixes"
+  "releaseNotes": "Many improvements done\nNew wallpapers added"
 }
