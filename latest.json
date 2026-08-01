@@ -1,9 +1,9 @@
 {
-  "versionCode": 61,
-  "versionName": "4.31",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.31/darkfx_community_release_version.v4.31.apk",
-  "sha256": "b54096996465fb779b09d2a3c72997ac6645ade44cd3679fa5b891ad26b68d4e",
+  "versionCode": 62,
+  "versionName": "4.32",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.32/darkfx_community_release_version.v4.32.apk",
+  "sha256": "a8feca331acee3806e45bbc503190e6ac00b3ed2e5adb98853c78043fceec54e",
   "sizeBytes": 104131197,
   "mandatory": true,
-  "releaseNotes": "Improvements and bug fixes"
+  "releaseNotes": "Bug fixes"
 }
