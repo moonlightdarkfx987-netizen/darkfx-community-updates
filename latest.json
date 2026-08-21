@@ -1,9 +1,9 @@
 {
-  "versionCode": 73,
-  "versionName": "4.43",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.43/darkfx_community_release_version.v4.43.apk",
-  "sha256": "d1d4cb3302ae540a138f3d54d29cdc11b834c119ad8a9128667a7f36045ca0ca",
-  "sizeBytes": 114948972,
+  "versionCode": 74,
+  "versionName": "4.44",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.44/darkfx_community_release_version.v4.44.apk",
+  "sha256": "40aa14c5bc90fc933c4299937014f3fbe5e3ab497b684d516b27c6e2b9b782db",
+  "sizeBytes": 114965356,
   "mandatory": true,
-  "releaseNotes": "bug fixes"
+  "releaseNotes": "Improved smooth photo and video swiping in fullscreen and send preview, refined media bubbles and Saved Messages, and fixed loading transitions, tagged timestamp alignment, dark-mode icon colors, and other stability issues."
 }
