@@ -1,9 +1,9 @@
 {
-  "versionCode": 96,
-  "versionName": "4.65",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.65/darkfx_community_release_version.v4.65.apk",
-  "sha256": "e896a05689588d8fd141b211520392053775c57bfee48649096710ffb34b27e8",
-  "sizeBytes": 116475556,
+  "versionCode": 97,
+  "versionName": "4.66",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.66/darkfx_community_release_version.v4.66.apk",
+  "sha256": "f7595cdaaf70a01970079779928a551d250d816bed80464e314e8df8ccac9889",
+  "sizeBytes": 116477432,
   "mandatory": true,
-  "releaseNotes": "bug fixes"
+  "releaseNotes": "bug fixes and improvements"
 }
