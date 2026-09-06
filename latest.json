@@ -1,9 +1,9 @@
 {
-  "versionCode": 97,
-  "versionName": "4.66",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.66/darkfx_community_release_version.v4.66.apk",
-  "sha256": "f7595cdaaf70a01970079779928a551d250d816bed80464e314e8df8ccac9889",
-  "sizeBytes": 116477432,
+  "versionCode": 98,
+  "versionName": "4.67",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.67/darkfx_community_release_version.v4.67.apk",
+  "sha256": "755494b7eaa0a961c480eaca20112ce5450a483a7a6c07d48e5ceb6d2e399d6d",
+  "sizeBytes": 171183099,
   "mandatory": true,
-  "releaseNotes": "bug fixes and improvements"
+  "releaseNotes": "Channel stories are now available.\nNew wallpapers are available.\nGPU blur is now available in chats."
 }
