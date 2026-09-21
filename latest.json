@@ -1,9 +1,9 @@
 {
-  "versionCode": 106,
-  "versionName": "4.75",
-  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.75/darkfx_community_release_version.v4.75.apk",
-  "sha256": "a5f39fb46533dd83a849768156cdd8be1d4c122055482830f566bbc1b281cac5",
-  "sizeBytes": 171325045,
+  "versionCode": 107,
+  "versionName": "4.76",
+  "apkUrl": "https://github.com/moonlightdarkfx987-netizen/darkfx-community-updates/releases/download/v4.76/darkfx_community_release_version.v4.76.apk",
+  "sha256": "11578650f868c6917296ab2ec2d47f5ceddd278391dc6d7db2750a28c0ad8519",
+  "sizeBytes": 171341429,
   "mandatory": true,
-  "releaseNotes": "Bug fixes"
+  "releaseNotes": "New iOS 27-like navbar added. Bug fixes."
 }
